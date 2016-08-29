@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile Operator</string>
+
+    <string name="waiting_sms">Esperando un SMS...</string>
+    <string name="operator">Mobile Operator</string>
+    <string name="action_settings">Conf.</string>
+</resources>
